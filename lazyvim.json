@@ -1,5 +1,6 @@
 {
   "extras": [
+    "lazyvim.plugins.extras.lang.sql",
     "lazyvim.plugins.extras.ui.smear-cursor"
   ],
   "install_version": 8,

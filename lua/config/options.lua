@@ -12,5 +12,9 @@ opt.wrap = true
 --vim.opt.guifont = { "JetBrainsMono Nerd Font", ":h14" }
 vim.opt.guifont = "JetBrainsMono Nerd Font:h12"
 
+--vim.g.dbs = {
+--  { name = "my_db", url = "sqlite:///home/eunhoc/coding/ics33/Project2/airport.db" },
+--}
+
 --vim.opt.textwidth = 80
 --vim.opt.formatoptions:append("t")
